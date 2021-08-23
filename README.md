@@ -1,4 +1,7 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Manual deployment links:
+
+- S3 bucket: http://aws1-poltorin.s3-website-eu-west-1.amazonaws.com/
+- Cloudfront: https://d2zkjhanufab4z.cloudfront.net/
 
 ## Available Scripts
 
