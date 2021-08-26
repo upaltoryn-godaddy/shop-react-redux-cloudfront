@@ -1,7 +1,6 @@
-## Manual deployment links:
+## Link to the shop:
 
-- S3 bucket: http://aws1-poltorin.s3-website-eu-west-1.amazonaws.com/
-- Cloudfront: https://d2zkjhanufab4z.cloudfront.net/
+- Cloudfront: https://d1singyuuaaflv.cloudfront.net/
 
 ## Available Scripts
 
